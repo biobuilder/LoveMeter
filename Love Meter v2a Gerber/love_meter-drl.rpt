@@ -1,0 +1,25 @@
+Drill report for D:\KiCad Projects\Love Meter\Love Meter v2a SF\love_meter.kicad_pcb
+Created on 11/9/2018 11:24:23 AM
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'love_meter.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.40mm  0.016"  (31 holes)
+    T2  0.80mm  0.031"  (78 holes)
+    T3  0.90mm  0.035"  (19 holes)
+    T4  1.00mm  0.039"  (10 holes)
+
+    Total plated holes count 138
+
+
+Drill file 'love_meter-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+
+    Total unplated holes count 0

@@ -1,0 +1,19 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP FX614
+D Bell 202 Compatible Modem, DIP-16/SO-16
+K Bell Modem
+F contrib/fx614ds.pdf
+$ENDCMP
+#
+$CMP TVS_5_Array
+D TVS 5-Diode Array
+K Use with SOT-23-6 Footprints, such as Wurth 82402305
+$ENDCMP
+#
+$CMP V_Translator
+D Voltage Translator
+K Based on TXB0104 Voltage Translator
+$ENDCMP
+#
+#End Doc Library
